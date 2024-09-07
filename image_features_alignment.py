@@ -6,4 +6,3 @@ import matplotlib.pyplot as plt
 
 from zipfile import ZipFile
 from urllib.request import urlretrieve
-
